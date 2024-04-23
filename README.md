@@ -1,6 +1,6 @@
 # Guessing-Game
 Initial commit - set up basic project structure
-import random
+
 
 def get_word():
     words = ['apple', 'banana', 'cherry', 'date', 'elderberry']
