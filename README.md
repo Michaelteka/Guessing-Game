@@ -3,7 +3,8 @@ Project Overview
 Hey there!
 #Welcome to the Word Guessing Game repo! This project is a fun little game built in Python where you guess letters to figure out a secret word. You can play by yourself or with friends, and there are a few different rules and mechanics to keep things interesting. How It Works Secret Word: The game kicks off by picking a random word from a list we've created. It could be anything from a fruit to an animal, or something else entirely. Scoring: The fewer guesses you need to find the secret word, the better your score. It's all about being efficient with your guesses.
 
-#Explaining the code 
+#Explaining the code and the commits
+
 def get_word():
     words = ['shirts', 'pants', 'shoes', 'jackets', 'sweaters']
     return random.choice(words)
